@@ -1,0 +1,23 @@
+/*styles of tags*/
+html {
+  background-color: green;
+}
+header{
+  background-color:orange;
+}
+h4{
+  background-color:purple;
+}
+
+
+
+
+/*styles of classes*/
+.pizza{
+  background-color: yellow;
+}
+
+
+
+
+/*styles of id's*/
